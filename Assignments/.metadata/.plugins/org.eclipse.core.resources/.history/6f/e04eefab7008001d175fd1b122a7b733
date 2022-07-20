@@ -1,0 +1,19 @@
+package com.hcl.assignment2;
+import java.util.Scanner;
+
+public class SumOfTwo {
+	
+	public static boolean main(String[] args) {
+
+		Scanner sc =new Scanner(System.in);
+		int x= sc.nextInt();
+		int y= sc.nextInt();
+		int z= sc.nextInt();
+		
+		if (x+y==z) {
+			return true;
+		}
+		else {return false;}
+}
+	
+}

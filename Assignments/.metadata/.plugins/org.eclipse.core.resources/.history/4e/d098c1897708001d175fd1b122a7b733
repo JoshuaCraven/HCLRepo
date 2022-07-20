@@ -1,0 +1,19 @@
+package com.hcl.assignment2;
+
+
+public class WordReverse {
+	
+	public static void main(String[] args) {
+		String str = "Elephant";
+		char [] words = new char[str.length()];
+			
+			
+		for(int i=str.length()-1; i>=0; i--) {
+			System.out.println(str.charAt(i));
+				
+		}
+	}	
+
+	
+
+}

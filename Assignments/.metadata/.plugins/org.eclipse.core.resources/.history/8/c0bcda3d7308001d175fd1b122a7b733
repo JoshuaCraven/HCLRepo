@@ -1,0 +1,11 @@
+package com.hcl.assignment2;
+
+public class WordReverse {
+	
+	public static void main(String[] args) {
+		String[] Word = new Scanner(System.in);
+		
+		System.out.println(word[0])
+	}
+
+}
